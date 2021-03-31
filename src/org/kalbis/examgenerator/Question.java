@@ -1,4 +1,4 @@
-package org.kalbis.libreoffice;
+package org.kalbis.examgenerator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

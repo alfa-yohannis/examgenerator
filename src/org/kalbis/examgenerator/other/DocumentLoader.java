@@ -32,7 +32,7 @@
  *
  *************************************************************************/
 
-package org.kalbis.libreoffice.other;
+package org.kalbis.examgenerator.other;
 
 import com.sun.star.uno.UnoRuntime;
 

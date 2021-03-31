@@ -1,4 +1,4 @@
-package org.kalbis.libreoffice.other;
+package org.kalbis.examgenerator.other;
 
 import java.io.File;
 import java.io.IOException;

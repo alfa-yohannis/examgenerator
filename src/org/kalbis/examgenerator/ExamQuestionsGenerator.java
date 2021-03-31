@@ -1,4 +1,4 @@
-package org.kalbis.libreoffice;
+package org.kalbis.examgenerator;
 
 import java.io.BufferedWriter;
 import java.io.File;

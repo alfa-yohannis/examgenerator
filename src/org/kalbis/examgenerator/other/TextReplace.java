@@ -28,7 +28,7 @@
 //          Step 4: replace some english spelled words with US spelled
 //***************************************************************************
 
-package org.kalbis.libreoffice.other;
+package org.kalbis.examgenerator.other;
 
 import com.sun.star.uno.UnoRuntime;
 
