@@ -41,7 +41,7 @@ public class ExamPerStudentSession {
 		Random random = new Random();
 		String code = "";
 		for (int i = 0; i < length; i++) {
-			code = code + String.valueOf(random.nextInt(10));
+			code = code + String.valueOf(random.nextInt(9) + 1);
 		}
 		return code;
 	}
